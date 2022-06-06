@@ -1,15 +1,16 @@
-h1 {
-    text-align: center;
-    font-size:x-large;
-    background-color:aliceblue;
-    font-family: serif;
-}
-div {
-    text-align: center;
-    font-size:medium;
-    font-style:inherit;
-}
 body {
     background: scroll;
     background-color:cyan;
 }
+#pictures {
+    text-align: center;
+    font-size:x-large;
+    background-color:aliceblue;
+    font-family: serif;
+    background-color: cadetblue;
+}
+#contact {
+    text-align: center;
+    font-size:medium;
+    font-style:inherit;
+};
